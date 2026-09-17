@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/LinkwithRithesh"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Ritheshwaran%20A%20%F0%9F%91%8B;ECE%20Student%20%26%20Developer%20%F0%9F%8E%93;Embedded%20Systems%20%26%20Robotics%20Enthusiast%20%F0%9F%92%BB;IoT%20%26%20PCB%20Design%20Innovator%20%F0%9F%A4%96;Building%20Robots%20That%20Think%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" /> </a> </p>
 
 <p align="center"> 
-  <a href="https://linkedin.com/in/LinkwithRithesh" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> </a> 
+  <a href="https://linkedin.com/in/ritheshwarana" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> </a> 
   <a href="mailto:linkwithrithesh@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /> </a> 
   <a href="https://github.com/LinkwithRithesh" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" /> </a> 
 </p>
