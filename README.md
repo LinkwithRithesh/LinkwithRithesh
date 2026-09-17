@@ -1,150 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritheshwaran+A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%2F+ECE+Core+Engineer+%7C+Robotics+%7C+IoT+%7C+PCB+Design&descAlignY=62&descSize=16" width="100%"/>
+<p align="center"> <img src="assets/header.svg" width="100%" alt="Ritheshwaran A Header" /> </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ritheshwaran+%F0%9F%91%8B;2nd+Year+ECE+Undergraduate+%7C+CEG;Embedded+Systems+%2B+Robotics+%7C+IoT;Building+Real-Time+Systems+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center"> <a href="https://github.com/LinkwithRithesh"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Ritheshwaran%20A%20%F0%9F%91%8B;ECE%20Student%20%26%20Developer%20%F0%9F%8E%93;Embedded%20Systems%20%26%20Robotics%20Enthusiast%20%F0%9F%92%BB;IoT%20%26%20PCB%20Design%20Innovator%20%F0%9F%A4%96;Building%20Robots%20That%20Think%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" /> </a> </p>
 
-<br/>
+<p align="center"> 
+  <a href="https://linkedin.com/in/LinkwithRithesh" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> </a> 
+  <a href="mailto:linkwithrithesh@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /> </a> 
+  <a href="https://github.com/LinkwithRithesh" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" /> </a> 
+</p>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LinkwithRithesh&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" /> </p>
 
-```c
-/* about_me.c */
-#include <stdio.h>
+<h2 align="center"> About Me</h2>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" /> </p>
 
-typedef struct {
-    char name[32];
-    char location[48];
-    char degree[64];
-    char interests[4][32];
-    char languages[4][32];
-    char tools[3][32];
-    char goal[128];
-} Developer;
+<p align="center"> Hey! I'm <b>Ritheshwaran A</b>, a passionate <b>Electronics and Communication Engineering student & developer</b> based in India.<br /> I specialize in Embedded Systems, Robotics, IoT, PCB Design, and developing Arduino/ESP32-based embedded projects with hardware debugging to solve practical real-world problems. </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Status-_Building_%26_Shipping-111111?style=flat-square" alt="Status" /> 
+  <img src="https://img.shields.io/badge/Degree-B.E._ECE-DC2626?style=flat-square" alt="Degree" /> 
+  <img src="https://img.shields.io/badge/Focus-Embedded_%26_Robotics-111111?style=flat-square" alt="Focus" /> 
+</p>
 
-int main() {
-    Developer me = {
-        .name      = "Ritheshwaran A",
-        .location  = "Anna University, Chennai, Tamil Nadu",
-        .degree    = "B.E. Electronics & Communication (2nd Year)",
-        .interests = {
-            "Embedded Systems",
-            "Robotics & IoT",
-            "PCB Design",
-            "Real-Time Systems"
-        },
-        .languages = {
-            "C", "C++", "Embedded C", "Python"
-        },
-        .tools     = {
-            "Proteus", "MATLAB", "KiCad"
-        },
-        .goal      = "To build a career as an Embedded Systems / ECE Core Engineer."
-    };
+<p align="center"> <b>Let's Discuss:</b> C, C++, Embedded C, Python, Proteus, MATLAB, KiCad.<br /> <b>Philosophy:</b> <i>"I love building robots and bringing hardware to life!"</i> </p>
+<table width="100%" border="0" align="center"> <tr> <td width="50%" align="center" style="padding: 14px;"> <h4> Flagship Project</h4> <p><a href="https://github.com/LinkwithRithesh" target="_blank"><b>Line Following Robot (PID)</b></a><br /><sub>Tuned Kp/Ki/Kd for optimized tracking</sub></p> </td> <td width="50%" align="center" style="padding: 14px;"> <h4> Active Deep Dives</h4> <p><b>Multi-Sensor Monitoring System</b><br /><sub>Embedded control & sensing</sub></p> </td> </tr> <tr> <td width="50%" align="center" style="padding: 14px;"> <h4> Wireless Control</h4> <p><a href="https://github.com/LinkwithRithesh" target="_blank"><b>Wireless Embedded RC Car</b></a><br /><sub>Real-time wireless command</sub></p> </td> <td width="50%" align="center" style="padding: 14px;"> <h4> IoT Systems</h4> <p><b>RFID-Based Smart Attendance</b><br /><sub>Automated attendance management</sub></p> </td> </tr> </table>
 
-    printf("Experienced in Arduino/ESP32 projects & hardware debugging.\n");
-    return 0;
-}
-```
+<h2 align="center"> Featured Project Spotlight</h2>
+<table width="100%" border="0" align="center"> <tr> <td align="center" style="padding: 22px;"> <h3> Line Following Robot — PID Control</h3> <p><i>An advanced line following robot using PID control for optimized tracking, reducing lap time and oscillations. Built with Arduino Nano, motor drivers, and IR sensor arrays.</i></p> <br /> <p> <a href="https://github.com/LinkwithRithesh" target="_blank"> <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" /> </a> </p> </td> </tr> </table>
 
-<br clear="right"/>
+<h2 align="center"> Tech Stack & Skills</h2>
+<p align="center"><b>Core Programming Languages</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" /> </a> </p>
+<p align="center"><b>Embedded & Hardware</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" width="100%" style="max-width: 380px;" alt="Embedded and Hardware" /> </a> </p>
+<p align="center"><b>Tools & Platforms</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=matlab,git,github&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" /> </a> </p>
 
----
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Proteus-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Proteus" /> 
+  <img src="https://img.shields.io/badge/KiCad-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="KiCad" /> 
+  <img src="https://img.shields.io/badge/ESP32-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="ESP32" /> 
+</p>
 
-## 👨‍💻 About Me
-Enthusiastic Electronics and Communication Engineering student interested in Embedded Systems, Robotics, IoT, PCB Design, and Real-Time Systems. Experienced in developing Arduino/ESP32-based embedded projects and hardware debugging. My career goal is to build a career as an Embedded Systems / ECE Core Engineer, specializing in embedded systems, robotics, IoT, PCB design, and real-time systems.
+<h2 align="center"> GitHub Analytics & Activity</h2>
+<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=LinkwithRithesh&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LinkwithRithesh&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinkwithRithesh&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" /> </p>
 
----
+<h2 align="center"> Contribution Journey</h2>
 
-## 🛠️ Tech Stack
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" /> </p>
 
-**Programming Languages**
-<br/>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Tools & Technologies**
-<br/>
-![Proteus](https://img.shields.io/badge/Proteus-1B1B1B?style=flat-square&logo=proteus&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
----
-
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LinkwithRithesh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📋 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinkwithRithesh&theme=github_dark" width="95%" alt="Profile Summary"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinkwithRithesh&theme=github_dark" width="32%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinkwithRithesh&theme=github_dark" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinkwithRithesh&theme=github_dark" width="32%" alt="Stats"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinkwithRithesh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | 
-|:-------:|
-| **[🤖 Line Following Robot — PID Control](https://github.com/LinkwithRithesh)** | 
-| **[📡 Wireless Embedded RC Car](https://github.com/LinkwithRithesh)** |
-| **[📟 Embedded Multi-Sensor Monitoring and Control System](https://github.com/LinkwithRithesh)** | 
-| **[🆔 RFID-Based Smart Attendance Management System](https://github.com/LinkwithRithesh)** | 
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Branch | Institution | Year |
-|:------:|:------:|:-----------:|:----:|
-| **B.E. Electronics & Communication Engineering** | **ECE** | College of Engineering, Guindy (CEG), Anna University | **2nd Year** |
-
-</div>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkwithRithesh)
-[![Gmail](https://img.shields.io/badge/Gmail-linkwithrithesh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:linkwithrithesh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-LinkwithRithesh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LinkwithRithesh)
-[![Profile Views](https://komarev.com/ghpvc/?username=LinkwithRithesh&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/LinkwithRithesh)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<h2 align="center"> Let's Connect & Collaborate</h2>
+<p align="center"><i>Whether you want to discuss system architecture, explore embedded collaboration, or just say hello — my inbox is always open!</i></p>
+<table border="0" align="center"> <tr> <td align="center" width="220" style="padding: 16px;"> <a href="https://www.linkedin.com/in/LinkwithRithesh" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /> <br /><br /> <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> </a> <br /> <sub><b>Professional Network</b></sub> </td> <td align="center" width="220" style="padding: 16px;"> <a href="mailto:linkwithrithesh@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" /> <br /><br /> <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /> </a> <br /> <sub><b>Direct Collaboration</b></sub> </td> </tr> </table>
+<p align="center"> <img src="assets/footer.svg" width="100%" alt="Footer" /> </p>
