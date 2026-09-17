@@ -39,13 +39,13 @@
 </p>
 
 <h2 align="center"> GitHub Analytics & Activity</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LinkwithRithesh&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkwithRithesh&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinkwithRithesh&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.demolab.com/api?username=LinkwithRithesh&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" /> <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=LinkwithRithesh&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=LinkwithRithesh&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" /> </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Build+it.+Break+it.+Fix+it.+Ship+it." width="100%" style="max-width: 600px;" alt="Code and Art Quote" /> </p>
 
 <h2 align="center"> Contribution Journey</h2>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/LinkwithRithesh/LinkwithRithesh/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%" alt="Snake Animation" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/LinkwithRithesh/LinkwithRithesh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" /> </p>
 
 <h2 align="center"> Let's Connect & Collaborate</h2>
 <p align="center"><i>Whether you want to discuss system architecture, explore embedded collaboration, or just say hello — my inbox is always open!</i></p>
