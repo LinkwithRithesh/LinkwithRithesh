@@ -28,9 +28,9 @@
 <table width="100%" border="0" align="center"> <tr> <td align="center" style="padding: 22px;"> <h3> Line Following Robot — PID Control</h3> <p><i>An advanced line following robot using PID control for optimized tracking, reducing lap time and oscillations. Built with Arduino Nano, motor drivers, and IR sensor arrays.</i></p> <br /> <p> <a href="https://github.com/LinkwithRithesh" target="_blank"> <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" /> </a> </p> </td> </tr> </table>
 
 <h2 align="center"> Tech Stack & Skills</h2>
-<p align="center"><b>Core Programming Languages</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" /> </a> </p>
-<p align="center"><b>Embedded & Hardware</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="100%" style="max-width: 150px;" alt="Embedded and Hardware" /> </a> </p>
-<p align="center"><b>Tools & Platforms</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=matlab,github&theme=dark" width="100%" style="max-width: 300px;" alt="Tools" /> </a> </p>
+<p align="center"><b>Core Programming Languages</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" alt="Languages" /> </a> </p>
+<p align="center"><b>Embedded & Hardware</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Embedded and Hardware" /> </a> </p>
+<p align="center"><b>Tools & Platforms</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=matlab,github&theme=dark" alt="Tools" /> </a> </p>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Proteus-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Proteus" /> 
@@ -39,7 +39,10 @@
 </p>
 
 <h2 align="center"> GitHub Analytics & Activity</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LinkwithRithesh&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkwithRithesh&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" /> </p>
+<p align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinkwithRithesh&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinkwithRithesh&theme=github_dark" alt="Top Languages" />
+</p>
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=LinkwithRithesh&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" /> </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Build+it.+Break+it.+Fix+it.+Ship+it." width="100%" style="max-width: 600px;" alt="Code and Art Quote" /> </p>
 
