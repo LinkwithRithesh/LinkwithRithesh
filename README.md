@@ -11,17 +11,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LinkwithRithesh&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" /> </p>
 
 <h2 align="center"> About Me</h2>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" /> </p>
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Designing+for+impact.+Building+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Hardware prototyping animation" /> </p>
 
-<p align="center"> Hey! I'm <b>Ritheshwaran A</b>, a passionate <b>Electronics and Communication Engineering student & developer</b> based in India.<br /> I specialize in Embedded Systems, Robotics, IoT, PCB Design, and developing Arduino/ESP32-based embedded projects with hardware debugging to solve practical real-world problems. </p>
+<p align="center"> Hey! I'm <b>Ritheshwaran A</b>, a passionate <b>Electronics and Communication Engineering student</b> based in India.<br /> I specialize in Embedded Systems, Robotics, IoT, PCB Design, and developing Arduino/ESP32-based embedded projects with hardware debugging to solve practical real-world problems. </p>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Status-_Building_%26_Shipping-111111?style=flat-square" alt="Status" /> 
+  <img src="https://img.shields.io/badge/Status-Prototyping_%26_Testing-111111?style=flat-square" alt="Status" /> 
   <img src="https://img.shields.io/badge/Degree-B.E._ECE-DC2626?style=flat-square" alt="Degree" /> 
-  <img src="https://img.shields.io/badge/Focus-Embedded_%26_Robotics-111111?style=flat-square" alt="Focus" /> 
+  <img src="https://img.shields.io/badge/Focus-Embedded_%26_Hardware-111111?style=flat-square" alt="Focus" /> 
 </p>
 
-<p align="center"> <b>Let's Discuss:</b> C, C++, Embedded C, Python, Proteus, MATLAB, KiCad.<br /> <b>Philosophy:</b> <i>"I love building robots and bringing hardware to life!"</i> </p>
+<p align="center"> <b>Let's Discuss:</b> Microcontrollers, PCB Design, Real-Time Systems, Sensors.<br /> <b>Philosophy:</b> <i>"I love building robots and bringing hardware to life!"</i> </p>
 <table width="100%" border="0" align="center"> <tr> <td width="50%" align="center" style="padding: 14px;"> <h4> Flagship Project</h4> <p><a href="https://github.com/LinkwithRithesh" target="_blank"><b>Line Following Robot (PID)</b></a><br /><sub>Tuned Kp/Ki/Kd for optimized tracking</sub></p> </td> <td width="50%" align="center" style="padding: 14px;"> <h4> Active Deep Dives</h4> <p><b>Multi-Sensor Monitoring System</b><br /><sub>Embedded control & sensing</sub></p> </td> </tr> <tr> <td width="50%" align="center" style="padding: 14px;"> <h4> Wireless Control</h4> <p><a href="https://github.com/LinkwithRithesh" target="_blank"><b>Wireless Embedded RC Car</b></a><br /><sub>Real-time wireless command</sub></p> </td> <td width="50%" align="center" style="padding: 14px;"> <h4> IoT Systems</h4> <p><b>RFID-Based Smart Attendance</b><br /><sub>Automated attendance management</sub></p> </td> </tr> </table>
 
 <h2 align="center"> Featured Project Spotlight</h2>
