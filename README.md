@@ -29,8 +29,8 @@
 
 <h2 align="center"> Tech Stack & Skills</h2>
 <p align="center"><b>Core Programming Languages</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" /> </a> </p>
-<p align="center"><b>Embedded & Hardware</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" width="100%" style="max-width: 380px;" alt="Embedded and Hardware" /> </a> </p>
-<p align="center"><b>Tools & Platforms</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=matlab,git,github&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" /> </a> </p>
+<p align="center"><b>Embedded & Hardware</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="100%" style="max-width: 150px;" alt="Embedded and Hardware" /> </a> </p>
+<p align="center"><b>Tools & Platforms</b></p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=matlab,github&theme=dark" width="100%" style="max-width: 300px;" alt="Tools" /> </a> </p>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Proteus-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Proteus" /> 
